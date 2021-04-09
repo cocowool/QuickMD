@@ -1,0 +1,28 @@
+{
+  "name": "quickmd",
+  "version": "1.0.0",
+  "description": "Another Markdown Editor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cocowool/QuickMD.git"
+  },
+  "keywords": [
+    "Markdown",
+    "Markdown",
+    "Editor",
+    "Editor"
+  ],
+  "author": "cocowool",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/cocowool/QuickMD/issues"
+  },
+  "homepage": "https://github.com/cocowool/QuickMD#readme",
+  "devDependencies": {
+    "electron": "^12.0.2"
+  }
+}
